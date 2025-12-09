@@ -38,6 +38,7 @@
     border-radius: 10px;
     cursor: pointer;
     margin-bottom: 5px;
+    background-color: #fad9d9;
 }
 .ModalBox button:hover{
     background-color: #ffc9c9;
@@ -67,17 +68,3 @@
     margin: 10px;
 }
 
-.LogOut {
-    width: 100px;
-    height: 30px;
-    border-radius: 10px;
-    border: none;
-    cursor: pointer;
-    background-color: #ff7b7bc0;
-} 
-.Red {
-    background-color: #fad9d9;
-}
-.Red button:hover{
-    background-color: #ffc9c9;
-}

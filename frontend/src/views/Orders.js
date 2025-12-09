@@ -6,7 +6,6 @@ import { getOrders } from "../functions.js"
 
 function Orders(props) {
     const [orders, setOrders] = useState([]);
-    console.log('bhj');
     useEffect(() => {
         getOrders(setOrders);
     }, []);
