@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "68e7d2c04458f08267c8d439"
+  },
+  "login": "asd",
+  "password": "asd",
+  "email": "asd",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "692997fe65e7fbbb62405208"
+  },
+  "login": "tomysstudio",
+  "password": "JNw-Za5-zYX-Ccc",
+  "email": "n v vbncfvhvhj",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6929d53c6086c3d98627777f"
+  },
+  "login": "tomysstudio1",
+  "password": "BD6-Aq4-FbP-sqa",
+  "email": "tomys.studio@gmail.com",
+  "__v": 0
+}]

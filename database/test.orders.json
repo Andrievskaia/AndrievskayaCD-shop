@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "69348b389ce65a21cfc0c120"
+  },
+  "login": "tomysstudio",
+  "productIds": [
+    "6929a06b3ffeeedfe779aaa9",
+    "6934797abfb7898e5c9ce23b"
+  ],
+  "totalPrice": 3000,
+  "createdAt": {
+    "$date": "2025-12-06T19:59:52.376Z"
+  },
+  "status": "Оформлен",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "693491fb48d80f6e1d064880"
+  },
+  "login": "tomysstudio",
+  "productIds": [
+    "6929a06b3ffeeedfe779aaa9"
+  ],
+  "totalPrice": 1000,
+  "createdAt": {
+    "$date": "2025-12-06T20:28:43.021Z"
+  },
+  "status": "Оформлен",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69349dad48d80f6e1d064942"
+  },
+  "login": "tomysstudio",
+  "productIds": [
+    "6929a06b3ffeeedfe779aaa9",
+    "6934797abfb7898e5c9ce23b",
+    "69349a40bfb7898e5c9ce245",
+    "69349a9ebfb7898e5c9ce248",
+    "69349aedbfb7898e5c9ce24a"
+  ],
+  "totalPrice": 10150,
+  "createdAt": {
+    "$date": "2025-12-06T21:18:37.156Z"
+  },
+  "status": "Оформлен",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69386bff1fca419149324937"
+  },
+  "login": "tomysstudio",
+  "productIds": [
+    "6929a06b3ffeeedfe779aaa9",
+    "6934797abfb7898e5c9ce23b",
+    "69349a40bfb7898e5c9ce245"
+  ],
+  "totalPrice": 5670,
+  "createdAt": {
+    "$date": "2025-12-09T18:35:43.410Z"
+  },
+  "status": "Оформлен",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69386fef843b4fa7c5790b97"
+  },
+  "login": "tomysstudio1",
+  "productIds": [
+    "69349a40bfb7898e5c9ce245",
+    "6929a06b3ffeeedfe779aaa9",
+    "69349b70bfb7898e5c9ce24d"
+  ],
+  "totalPrice": 7470,
+  "createdAt": {
+    "$date": "2025-12-09T18:52:31.119Z"
+  },
+  "status": "Оформлен",
+  "__v": 0
+}]

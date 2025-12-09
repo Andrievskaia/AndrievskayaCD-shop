@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "6929a06b3ffeeedfe779aaa9"
+  },
+  "price": 2390,
+  "image": "img1.jpg",
+  "title": "Букет 19 ягод в шоколаде"
+},
+{
+  "_id": {
+    "$oid": "6934797abfb7898e5c9ce23b"
+  },
+  "price": 1290,
+  "image": "img2.jpg",
+  "title": "Букет 7 ягод в шоколаде"
+},
+{
+  "_id": {
+    "$oid": "69349a40bfb7898e5c9ce245"
+  },
+  "price": 1990,
+  "image": "img3.jpg",
+  "title": "Клубника и бананы в шок."
+},
+{
+  "_id": {
+    "$oid": "69349a63bfb7898e5c9ce246"
+  },
+  "price": 3550,
+  "image": "img4.jpg",
+  "title": "Клубника и бананы в шок."
+},
+{
+  "_id": {
+    "$oid": "69349a7bbfb7898e5c9ce247"
+  },
+  "price": 3090,
+  "image": "img5.jpg",
+  "title": "Букет 19 ягод «Сахарок»"
+},
+{
+  "_id": {
+    "$oid": "69349a9ebfb7898e5c9ce248"
+  },
+  "price": 3590,
+  "image": "img6.jpg",
+  "title": "Клубника в шоколаде 25шт"
+},
+{
+  "_id": {
+    "$oid": "69349acdbfb7898e5c9ce249"
+  },
+  "price": 2390,
+  "image": "img7.jpg",
+  "title": "Клубника в шоколаде 16шт"
+},
+{
+  "_id": {
+    "$oid": "69349aedbfb7898e5c9ce24a"
+  },
+  "price": 890,
+  "image": "img8.jpg",
+  "title": "Клубника в шоколаде 5шт"
+},
+{
+  "_id": {
+    "$oid": "69349b29bfb7898e5c9ce24b"
+  },
+  "price": 3290,
+  "image": "img9.jpg",
+  "title": "Букет 19 ягод Принцесса"
+},
+{
+  "_id": {
+    "$oid": "69349b56bfb7898e5c9ce24c"
+  },
+  "price": 1790,
+  "image": "img10.jpg",
+  "title": "Клубника в стаканчике"
+},
+{
+  "_id": {
+    "$oid": "69349b70bfb7898e5c9ce24d"
+  },
+  "price": 3090,
+  "image": "img11.jpg",
+  "title": "Набор бананы и клубника"
+},
+{
+  "_id": {
+    "$oid": "69349b92bfb7898e5c9ce24e"
+  },
+  "price": 2290,
+  "image": "img12.jpg",
+  "title": "Букет 19 ягод «Молочный»"
+}]
