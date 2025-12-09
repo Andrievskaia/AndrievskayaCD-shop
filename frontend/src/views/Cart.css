@@ -1,0 +1,112 @@
+.Cart {
+    width: 100%;
+    min-height: calc(100vh - 70px - 50px);
+    background-color: rgb(255, 255, 255);
+}
+.Cart-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.left {
+    width: 65%;
+    padding-bottom: 50px;
+}
+.right {
+    width: 32%;
+    padding-right: 30px;
+}
+.Total {
+    border: 1px solid #ccc;
+    padding: 15px 2%;
+}
+.Sub-title {
+    font-weight: 700;
+    margin-bottom: 25px;
+    font-size: 1.5pc;
+}
+.row {
+    display: flex;
+    margin-bottom: 10px;
+}
+.row-title {
+    text-align: left;
+    width: 50%;
+    font-size: 1.3pc;
+    font-weight: 500;
+}
+.row-value {
+    text-align: right;
+    width: 50%;
+    font-size: 1.3pc;
+    font-weight: 400;
+}
+
+.Cart button {
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    font-size: 1.3pc;
+    font-weight: 700;
+    width: 100%;
+    height: 50px;
+    background-color: #fad9d9;
+    border: none;
+    border-radius: 10px;
+    justify-content: center;
+    margin-top: 10px;
+}
+.Cart button:hover{
+    background-color: #ffc9c9;
+}
+.Cart h1{
+    padding: 50px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+
+.CartItem {
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.CartItem:last-child {
+    margin-bottom: 0;
+}
+.CartItem div {
+    padding: 15px 2%;
+}
+.image img {
+    max-width: 125px;
+}
+.Title  {
+    font-size: 1.5pc;
+    font-weight: 600;
+    display: flex; 
+    align-items: center
+}
+.Price  {
+    font-size: 1.5pc;
+    font-weight: 400;
+    display: flex; 
+    align-items: center
+}
+.CartItem button {
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    font-size: 1pc;
+    font-weight: 400;
+    display: flex; 
+    align-items: center;
+    margin: 10px;
+    width: 100px;
+    height: auto;
+    background-color: #fad9d9;
+    border: none;
+    border-radius: 10px;
+    justify-content: center;
+}
+.CartItem button:hover{
+    background-color: #ffc9c9;
+}

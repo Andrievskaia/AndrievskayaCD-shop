@@ -1,0 +1,38 @@
+.UserBox {
+    width: 300px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.UserBox button {
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+.UserBox button:hover {
+    background-color: #ffc9c9;
+}
+
+.Profile {
+    width: 150px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.Profile button{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    
+}
+
+.Profile button:hover {
+    background-color: #ffc9c9;
+}

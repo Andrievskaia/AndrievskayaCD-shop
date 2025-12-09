@@ -1,0 +1,83 @@
+.ModalBox{
+    width: 400px;
+    height: auto;
+    min-height: 150px;
+    border-radius: 10px;
+    background-color: #fff;
+    position: absolute;
+    top: 20%;
+    left: calc(50% - 200px);
+    padding: 10px 50px 20px 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ModalBox h1{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    font-size: 24px;
+    font-weight: 600;
+}
+.ModalBox h2{
+    width: 100%;
+    height: 50px;
+    line-height: 40px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.ModalBox input{
+    width: 100%;
+    height: 30px;
+    margin-bottom: 10px;
+}
+.ModalBox button{
+    width: 40%;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+.ModalBox button:hover{
+    background-color: #ffc9c9;
+}
+.echo {
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #747474;
+    opacity: .3;
+}
+
+.Butt {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.Butt button{
+    width: 100%;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 5px;
+    margin: 10px;
+}
+
+.LogOut {
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    background-color: #ff7b7bc0;
+} 
+.Red {
+    background-color: #fad9d9;
+}
+.Red button:hover{
+    background-color: #ffc9c9;
+}

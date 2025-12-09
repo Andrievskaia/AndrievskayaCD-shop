@@ -1,0 +1,18 @@
+.Item-M {
+    width: 100%;
+    min-height: calc(100vh - 70px - 50px);
+    background-color: #fff;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 30px;
+    padding: 30px;
+    padding-top: 50px;
+}
+
+.Main h1{
+    font-size: 40px;
+    font-weight: 600;
+}
+.Main{
+    padding-top: 50px;
+}

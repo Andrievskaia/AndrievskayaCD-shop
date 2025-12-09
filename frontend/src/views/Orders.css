@@ -1,0 +1,37 @@
+.Orders{
+    min-height: calc(100vh - 70px - 50px);
+}
+
+.Orders h2{
+    padding: 50px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.list-orders {
+    margin: auto;
+    max-width: 850px;
+    width: 100%;
+}
+.title,
+.Order {
+    border: 1px solid #ccc;
+    display: flex;
+    margin-bottom: 15px;
+    padding: 15px 2%;
+}
+.title .item,
+.Order .item {
+    text-align: left;
+    width: 50%;
+    font-size: 1.2pc;
+    font-weight: 400;
+}
+.title .item:last-child,
+.Order .item:last-child {
+    text-align: right;
+}
+.title .item {
+    font-weight: 700;
+    font-size: 1.3pc;
+}
